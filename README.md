@@ -3,7 +3,7 @@ Cathy是一个智能(控制)家居管理的方案。采用Arduino来实现对继
 
 ## 简单原理介绍
 
-![原理简介](https://github.com/dongkaipo/Cathy/blob/master/screenshots/0.%20introduction.jpg)
+![原理简介](https://github.com/dongkaipo/Cathy/blob/master/screenshots/0.%20introduction.jpg =50%)
 
 1. 手机通过`SmartConfig` 技术来配置`ESP8266` 使其能连入互联网
 2. `ESP8266` 每1~2秒访问服务器来做长连接，上传数据和获取服务器是否有活动请求
